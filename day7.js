@@ -1,4 +1,4 @@
-/**
+ /**
  * @param {number[]} nums
  * @param {Function} fn
  * @param {number} init
