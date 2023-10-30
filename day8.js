@@ -1,4 +1,4 @@
- /**
+/**
  * @param {Function[]} functions
  * @return {Function}
  */
