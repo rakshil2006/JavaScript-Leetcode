@@ -1,4 +1,4 @@
-/**
+ /**
  * @return {number}
  */
 var argumentsLength = function(...args) {
